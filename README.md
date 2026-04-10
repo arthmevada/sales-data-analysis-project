@@ -29,10 +29,10 @@ This project analyzes Acme Co.’s USA sales data (2014–2018) using Python and
 - Use dashboards for better decision-making  
 
 ## Dashboard Preview
-![home](screenshot/home.png)
-![Overview](screenshot/overview.png)
-![Product](screenshot/product.png)
-![Geographic](screenshot/geographic.png)
+![home](screenshots/home.png)
+![Overview](screenshots/overview.png)
+![Product](screenshots/product.png)
+![Geographic](screenshots/geographic.png)
 
 
 
