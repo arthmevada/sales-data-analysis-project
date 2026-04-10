@@ -27,15 +27,7 @@ This project analyzes Acme Co.’s USA sales data (2014–2018) using Python and
 - Optimize pricing strategies to improve margins  
 - Investigate the sales drop in 2017  
 - Use dashboards for better decision-making  
-## Dashboard Preview
 
-![Home](https://raw.githubusercontent.com/arthmevada/sales-data-analysis-project/main/screenshots/home.png)
-
-![Overview](https://raw.githubusercontent.com/arthmevada/sales-data-analysis-project/main/screenshots/overview.png)
-
-![Product](https://raw.githubusercontent.com/arthmevada/sales-data-analysis-project/main/screenshots/product.png)
-
-![Geographic](https://raw.githubusercontent.com/arthmevada/sales-data-analysis-project/main/screenshots/geographic.png)
 
 
 
