@@ -36,7 +36,7 @@ This project analyzes Acme Co.’s USA sales data (2014–2018) using Python and
 ![Product](./screenshots/product.png)
 
 ![Geographic](./screenshots/geographic.png)
-![Geographic](screenshots/geographic.png)
+
 
 
 
